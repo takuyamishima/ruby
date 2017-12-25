@@ -1,5 +1,4 @@
-require 'bundler'
-Bundler.require
+
 require 'rubygems'
 require 'sinatra'
 require 'rss'
