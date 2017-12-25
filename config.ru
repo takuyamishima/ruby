@@ -1,2 +1,5 @@
-require './main.rb'
-run MainApp
+require 'bundler'
+Bundler.require
+
+require './app'
+run Sinatra::Application
