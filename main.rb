@@ -1,3 +1,5 @@
+require 'bundler'
+Bundler.require
 require 'sinatra'
 require 'rss'
 #commit
