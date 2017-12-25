@@ -2,11 +2,3 @@ source "https://rubygems.org"
 #dekinai
 ruby "2.4.2"
 gem 'sinatra'
-gem "sass"
-gem "haml"
-gem "coffee-script"
-gem "shotgun"
-
-group :test do
-  gem 'rspec'
-end
